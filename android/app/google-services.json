@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "682240773684",
+    "project_id": "crypto-bank-11be0",
+    "storage_bucket": "crypto-bank-11be0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682240773684:android:293dbfa6a7fa541980c461",
+        "android_client_info": {
+          "package_name": "com.stealthtrails.cryptobank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682240773684-1vvj4asv7hf19mc9sibi8b4nucd9un8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcWlVSYw9OaZaYa0PbzN78xXJc6sKzd8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682240773684-1vvj4asv7hf19mc9sibi8b4nucd9un8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
